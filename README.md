@@ -1,2 +1,2 @@
 # SchoolManagementSystem
-A Software for Managing daily School activities.
+A Complete Software Package for Managing daily School activities.
